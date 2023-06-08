@@ -3,6 +3,9 @@
 ## 概要
 - WSLイメージを保管・復旧できるかを試す
 
+### 詳細
+- [WSL2での試行](./20230609_migrate-wsl2.md)
+
 ## 参考情報
 - (MS Learn) about WSL : https://learn.microsoft.com/ja-jp/windows/wsl/about
 - そのほか：
