@@ -1,4 +1,4 @@
-# 20230608_migrateWSLx
+# how-to-migrateWSLx
 
 ## 概要
 - WSLイメージを保管・復旧できるかを試す
