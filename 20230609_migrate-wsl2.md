@@ -60,3 +60,18 @@ wsl -d $env:NEWOS
 ```
 
 
+## 参考手順
+
+### 01．作成Vmイメージの削除方法
+```
+cd d:\tmp
+wsl --shutdown
+wsl -l -v
+$env:NEWOS = "New-Ubuntu"
+# wsl --export <VM NAME> <export tar file>
+wsl --unregister $env:NEWOS
+rm $env:NEWOS
+```
+
+#### 実行ログ
+![image](./images/012_delete-WSL2-VM.png)
