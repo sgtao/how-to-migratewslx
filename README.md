@@ -12,3 +12,7 @@
   * refer Article : https://chigusa-web.com/blog/wsl2-win11/
   * refer Zenn : https://zenn.dev/shittoku_xxx/articles/066cfd072d87a1
   * refer Blog : https://www-creators.com/archives/241#sudo
+
+## Notification
+- テストしてみる
+- 
