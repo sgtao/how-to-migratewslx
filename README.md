@@ -14,5 +14,5 @@
   * refer Blog : https://www-creators.com/archives/241#sudo
 
 ## Notification
-- テストしてみる
-- 
+- Pullリクエストのメンション機能をテストしてみる
+
